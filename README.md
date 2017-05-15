@@ -1,2 +1,2 @@
-# klone-e2e-2
-Repository used for klone e2e tests
+# Go
+Repository used for klone e2e tests. Github should be able to detect the Go programming language.
